@@ -13,6 +13,10 @@ https://mumpster.org/
 # Intersystems MUMPS: Tools and demos
 https://openexchange.intersystems.com/  
 
+Cloud Studio  
+https://openexchange.intersystems.com/package/CloudStudio
+
+
 
 
 ## YottaDB MUMPS: Tools and demos
