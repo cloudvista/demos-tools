@@ -10,7 +10,7 @@ https://mumps.dev/
 https://mumpster.org/  
 
 
-# Intersystems MUMPS: Tools and demos
+# Intersystems: Tools and demos
 https://openexchange.intersystems.com/  
 
 Cloud Studio  
@@ -19,7 +19,7 @@ https://openexchange.intersystems.com/package/CloudStudio
 
 
 
-## YottaDB MUMPS: Tools and demos
+## YottaDB: Tools and demos
 
 bash wrapper for YottaDB  
 https://github.com/RamSailopal/YottaDB-Wrapper
