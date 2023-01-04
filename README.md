@@ -1,3 +1,14 @@
+## VistA reference
+https://hardhats.org/  
+
+
+
+## MUMPS reference
+http://www.cs.uni.edu/~okane/  
+https://mumps.dev/  
+
+
+
 ## demos of VistA / YottaDB integrations
 
 bash wrapper for YottaDB  
