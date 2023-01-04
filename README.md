@@ -6,7 +6,7 @@ https://github.com/RamSailopal/YottaDB-Wrapper
 Reactjs GUI utilising nodevista and fmql as a backend  
 https://github.com/RamSailopal/fmql-patients-admin
 
-Generating markdown (md) and html files from Vista documentation in MS-Word
+Generating markdown (md) and html files from Vista documentation in MS-Word  
 https://github.com/RamSailopal/VA-Markup
 
 Github action to compile M code
