@@ -9,7 +9,7 @@ https://mumps.dev/
 
 
 
-## demos of VistA / YottaDB integrations
+## VistA / YottaDB demos
 
 bash wrapper for YottaDB  
 https://github.com/RamSailopal/YottaDB-Wrapper
