@@ -1,14 +1,13 @@
 ## VistA reference
 https://hardhats.org/  
-
+https://en.wikipedia.org/wiki/VistA  
+https://worldvista.org/  
 
 
 ## MUMPS reference
 http://www.cs.uni.edu/~okane/  
 https://mumps.dev/  
 https://mumpster.org/  
-
-
 
 
 ## VistA / YottaDB demos
