@@ -1,4 +1,4 @@
-# Integrations, tests and demos
+## demos of YottaDB/VistA integrations
 
 bash wrapper for YottaDB  
 https://github.com/RamSailopal/YottaDB-Wrapper
@@ -14,7 +14,6 @@ https://github.com/RamSailopal/Mcode-Github-Action
 
 Demonstration of Web terminal UIs on Linode with iKnow-backed chatbot  
 https://github.com/RamSailopal/Webterminal
-
 
 VistA-NATS: IaC for Deployment of NATs messaging dev environment  
 Branch to provision Open VSCode server in Linode using Ansible.  
