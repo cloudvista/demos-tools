@@ -1,4 +1,4 @@
-# Integrations and tests
+# Integrations, tests and demos
 
 bash wrapper for YottaDB  
 https://github.com/RamSailopal/YottaDB-Wrapper
