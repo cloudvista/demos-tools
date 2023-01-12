@@ -1,13 +1,11 @@
 # Cloud VistA Tools and demos
-https://openexchange.intersystems.com/  
 
 __Cloud Studio__  
 https://openexchange.intersystems.com/package/CloudStudio  
 Demo:  
 https://github.com/RamSailopal/Intersystems-CloudStudio  
 
-
-__Node.js driven VistA (NodeVistA) with Reactjs web UI and Fileman Query Language (FMQL)  
+__Node.js-driven VistA (NodeVistA) with Reactjs web UI and Fileman Query Language (FMQL)  
 https://github.com/RamSailopal/fmql-patients-admin
 
 __Generating markdown (md) and html files from Vista documentation in MS-Word__  
@@ -67,7 +65,8 @@ https://fourthwatchsoftware.com
 https://yottadb.com  
 https://community.intersystems.com/post/intersytem-cache-mumps  
 
-
+## Intersystems community
+https://openexchange.intersystems.com/  
 
 
 
