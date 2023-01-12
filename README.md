@@ -39,8 +39,7 @@ Demonstration of Web terminal UIs on Linode with iKnow-backed chatbot
 https://github.com/RamSailopal/Webterminal
 
 __VistA Infrastructure-as-Code (IaC)__  
-Branch to provision Open VSCode server in Linode using Ansible.  
-Any change to the branch will run an CI/CD action.  
+Branch to provision Open VSCode server in Linode using Ansible. Any change to the branch will run an CI/CD action.  
 https://github.com/RamSailopal/Vista-NATS
 
 __Development of d3 charts against FileMan__  
