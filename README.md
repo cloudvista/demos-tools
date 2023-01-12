@@ -1,21 +1,4 @@
-## VistA reference
-https://hardhats.org/  
-https://en.wikipedia.org/wiki/VistA  
-https://worldvista.org/  
-
-
-## MUMPS reference
-http://www.cs.uni.edu/~okane/  
-https://mumps.dev/  
-https://mumpster.org/  
-
-## MUMPS Implementations
-https://fourthwatchsoftware.com  
-https://yottadb.com  
-https://community.intersystems.com/post/intersytem-cache-mumps  
-
-
-## VistA DevOps Tools and demos
+# Cloud VistA Tools and demos
 https://openexchange.intersystems.com/  
 
 __Cloud Studio__  
@@ -67,7 +50,23 @@ https://github.com/RamSailopal/Visidata
 __Bash wrapper for YottaDB CLI__  
 https://github.com/RamSailopal/YottaDB-Wrapper
  
- 
+
+# VistA reference
+https://hardhats.org/  
+https://en.wikipedia.org/wiki/VistA  
+https://worldvista.org/  
+
+
+# MUMPS reference
+http://www.cs.uni.edu/~okane/  
+https://mumps.dev/  
+https://mumpster.org/  
+
+# MUMPS Implementations
+https://fourthwatchsoftware.com  
+https://yottadb.com  
+https://community.intersystems.com/post/intersytem-cache-mumps  
+
 
 
 
