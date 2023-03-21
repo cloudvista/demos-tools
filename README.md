@@ -1,4 +1,4 @@
-# VistA demos and tools
+# VistA tools and demos
 
 ## Development tools
 __Cloud Studio__  
