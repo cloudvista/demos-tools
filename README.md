@@ -19,6 +19,9 @@ https://github.com/RamSailopal/VA-Markup
 __Browse Fileman data using D3.js charts__  
 https://github.com/RamSailopal/Fileman-d3
 
+__Browse Fileman via React.js web client__  
+https://github.com/cloudvista/fileman-reactJS
+
 __View M globals using D3.js dTree__  
 https://github.com/RamSailopal/global-dtree
 
