@@ -16,7 +16,7 @@ https://github.com/RamSailopal/VA-Markup
 
 
 ## Database management tools
-__Browse Fileman data using D3.js charts__  
+__Fileman visualization with D3.js charts__  
 https://github.com/RamSailopal/Fileman-d3
 
 __Browse Fileman via React.js web client__  
@@ -30,6 +30,7 @@ https://github.com/RamSailopal/global-dtree
  
 __Fileman - GraphQL API__  
 https://github.com/RamSailopal/Vista-graphql
+
 
 
 ## User interfaces
