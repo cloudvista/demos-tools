@@ -20,7 +20,8 @@ __Fileman visualization with D3.js charts__
 https://github.com/RamSailopal/Fileman-d3
 
 __Browse Fileman via React.js web client__  
-https://github.com/cloudvista/fileman-reactJS
+https://github.com/RamSailopal/FileManjs-gitpod
+
 
 __View M globals using D3.js dTree__  
 https://github.com/RamSailopal/global-dtree
