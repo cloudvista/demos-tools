@@ -1,4 +1,4 @@
-# VistA tools and demos
+# VISTA tools and demos
 
 ## Development tools
 __Cloud Studio__  
@@ -10,7 +10,7 @@ __Github action to compile M code__
 https://github.com/RamSailopal/Mcode-Github-Action
 
 
-## Documentation automation
+## Documentation automation (DocOps)
 __Generating Vista documentation in markdown and html (from in MS-Word source)__  
 https://github.com/RamSailopal/VA-Markup
 
@@ -35,7 +35,7 @@ https://github.com/RamSailopal/Vista-graphql
 
 
 
-## Other Experiments
+## VistA natural language processing
 https://github.com/RamSailopal/iKnow  
 
 
