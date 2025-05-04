@@ -1,8 +1,23 @@
 # VISTA tools and demos
 
-## AI Query a VistA database
-_Query VistA's database via an offline LLM_  
+
+## VistA AI
+_Query VistA's database using an AI chatbot interface_
 https://github.com/RamSailopal/VistAAI/tree/main
+
+## VistA natural language processing
+https://github.com/RamSailopal/iKnow  
+
+__Web terminal UI with iKnow-backed chatbot__  
+https://github.com/RamSailopal/Webterminal
+
+## User interfaces
+__Web UI with Fileman Query Language (FMQL)  
+https://github.com/RamSailopal/fmql-patients-admin
+
+
+
+
 
 ## Development tools
 __Cloud Studio__  
@@ -13,11 +28,9 @@ https://github.com/RamSailopal/Intersystems-CloudStudio
 __Github action to compile M code__  
 https://github.com/RamSailopal/Mcode-Github-Action
 
-
 ## Documentation automation (DocOps)
 __Generating Vista documentation in markdown and html (from in MS-Word source)__  
 https://github.com/RamSailopal/VA-Markup
-
 
 
 ## Database management tools
@@ -27,7 +40,6 @@ https://github.com/RamSailopal/Fileman-d3
 __Browse Fileman via React.js web client__  
 https://github.com/RamSailopal/FileManjs-gitpod
 
-
 __View M globals using D3.js dTree__  
 https://github.com/RamSailopal/global-dtree
 
@@ -36,20 +48,6 @@ https://github.com/RamSailopal/YottaDB-FileMan
 
 __Fileman - GraphQL API__  
 https://github.com/RamSailopal/Vista-graphql
-
-
-
-## VistA natural language processing
-https://github.com/RamSailopal/iKnow  
-
-
-## User interfaces
-__Web UI with Fileman Query Language (FMQL)  
-https://github.com/RamSailopal/fmql-patients-admin
-
-__Web terminal UI with iKnow-backed chatbot__  
-https://github.com/RamSailopal/Webterminal
-
 
 
 ## Infrastructure automation
