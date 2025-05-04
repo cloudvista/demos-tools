@@ -2,7 +2,7 @@
 
 
 ## VistA AI
-_Query VistA's database using an AI chatbot interface_  
+_Query VistA's database using an offline LLM interface_  
 https://github.com/RamSailopal/VistAAI/tree/main
 
 ## VistA natural language processing
