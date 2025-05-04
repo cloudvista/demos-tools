@@ -5,7 +5,8 @@
 _Query VistA's database using an offline LLM interface_  
 https://github.com/RamSailopal/VistAAI/tree/main
 
-## VistA natural language processing
+## VistA NLP
+_Query VistA's database using an offline NLP interfacxe_  
 https://github.com/RamSailopal/iKnow  
 
 __Web terminal UI with iKnow-backed chatbot__  
