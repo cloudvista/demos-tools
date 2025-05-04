@@ -1,5 +1,9 @@
 # VISTA tools and demos
 
+## AI Query a VistA database
+_Query VistA's database via an offline LLM_  
+https://github.com/RamSailopal/VistAAI/tree/main
+
 ## Development tools
 __Cloud Studio__  
 https://openexchange.intersystems.com/package/CloudStudio  
