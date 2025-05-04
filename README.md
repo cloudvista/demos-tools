@@ -13,7 +13,7 @@ _Query VistA's database using an NLP interfacxe in a Web-based terminal_
 https://github.com/RamSailopal/Webterminal
 
 ## Web-based User interfaces
-__Web UI with Fileman Query Language (FMQL)  
+Web UI with Fileman Query Language (FMQL)  
 https://github.com/RamSailopal/fmql-patients-admin
 
 
