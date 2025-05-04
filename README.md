@@ -9,7 +9,7 @@ https://github.com/RamSailopal/VistAAI/tree/main
 _Query VistA's database using an NLP interfacxe_  
 https://github.com/RamSailopal/iKnow  
 
-_Query VistA's database using an NLP interfacxe in a Web-based terminal_ 
+_Query VistA's database using an NLP interfacxe in a Web-based terminal_  
 https://github.com/RamSailopal/Webterminal
 
 ## Web-based User interfaces
