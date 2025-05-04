@@ -9,10 +9,10 @@ https://github.com/RamSailopal/VistAAI/tree/main
 _Query VistA's database using an NLP interfacxe_  
 https://github.com/RamSailopal/iKnow  
 
-__Web terminal UI with iKnow-backed chatbot__  
+_Query VistA's database using an NLP interfacxe in a Web-based terminal_ 
 https://github.com/RamSailopal/Webterminal
 
-## User interfaces
+## Web-based User interfaces
 __Web UI with Fileman Query Language (FMQL)  
 https://github.com/RamSailopal/fmql-patients-admin
 
