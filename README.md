@@ -2,11 +2,11 @@
 
 
 ## VistA AI
-_Query VistA's database using an offline LLM interface_  
+_Query VistA's database using an LLM interface_  
 https://github.com/RamSailopal/VistAAI/tree/main
 
 ## VistA NLP
-_Query VistA's database using an offline NLP interfacxe_  
+_Query VistA's database using an NLP interfacxe_  
 https://github.com/RamSailopal/iKnow  
 
 __Web terminal UI with iKnow-backed chatbot__  
